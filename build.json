@@ -1,0 +1,10 @@
+{
+  "manifest":
+  {
+     "minSdkVersion": 18,
+     "targetSdkVersion": 23,
+     "removePermissions": "ACCESS_WIFI, ACCESS_NETWORK_STATE",
+     "homeScreen": false,
+     "pathPattern": "*\\.txt"
+  }
+}
